@@ -1,0 +1,20 @@
+
+allwin.jpg
+size: 351,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare
+  rotate: true
+  xy: 236, 1
+  size: 184, 114
+  orig: 184, 114
+  offset: 0, 0
+  index: -1
+lens_flare
+  rotate: true
+  xy: 1, 10
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1

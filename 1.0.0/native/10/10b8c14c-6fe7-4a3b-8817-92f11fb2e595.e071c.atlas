@@ -1,0 +1,230 @@
+
+5lian.jpg
+size: 1922,1776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy: 1, 1483
+  size: 524, 292
+  orig: 524, 292
+  offset: 0, 0
+  index: -1
+fx_5kind_rainbow
+  rotate: false
+  xy: 603, 30
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+fx_5kind_starburst
+  rotate: false
+  xy: 1784, 912
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_5king_ring
+  rotate: false
+  xy: 1784, 1014
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_001
+  rotate: false
+  xy: 1, 1100
+  size: 356, 381
+  orig: 356, 395
+  offset: 0, 7
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_003
+  rotate: false
+  xy: 1, 717
+  size: 356, 381
+  orig: 356, 395
+  offset: 0, 7
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_005
+  rotate: false
+  xy: 1, 334
+  size: 354, 381
+  orig: 356, 395
+  offset: 0, 5
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_007
+  rotate: true
+  xy: 527, 1422
+  size: 353, 381
+  orig: 356, 395
+  offset: 3, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_009
+  rotate: true
+  xy: 1289, 1424
+  size: 351, 373
+  orig: 356, 395
+  offset: 5, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_011
+  rotate: true
+  xy: 359, 694
+  size: 351, 373
+  orig: 356, 395
+  offset: 5, 7
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_013
+  rotate: true
+  xy: 910, 1424
+  size: 351, 377
+  orig: 356, 395
+  offset: 5, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_015
+  rotate: false
+  xy: 716, 1047
+  size: 343, 373
+  orig: 356, 395
+  offset: 13, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_017
+  rotate: true
+  xy: 357, 339
+  size: 353, 373
+  orig: 356, 395
+  offset: 3, 7
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_019
+  rotate: false
+  xy: 1061, 1049
+  size: 353, 373
+  orig: 356, 395
+  offset: 3, 7
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_021
+  rotate: false
+  xy: 359, 1047
+  size: 355, 373
+  orig: 356, 395
+  offset: 1, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_023
+  rotate: false
+  xy: 734, 682
+  size: 353, 363
+  orig: 356, 395
+  offset: 3, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_025
+  rotate: false
+  xy: 732, 317
+  size: 355, 363
+  orig: 356, 395
+  offset: 1, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_027
+  rotate: false
+  xy: 1089, 684
+  size: 353, 363
+  orig: 356, 395
+  offset: 3, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_029
+  rotate: false
+  xy: 1089, 319
+  size: 346, 363
+  orig: 356, 395
+  offset: 2, 5
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_031
+  rotate: false
+  xy: 1416, 1061
+  size: 348, 361
+  orig: 356, 395
+  offset: 1, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_033
+  rotate: false
+  xy: 1444, 698
+  size: 338, 361
+  orig: 356, 395
+  offset: 3, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_035
+  rotate: false
+  xy: 1437, 321
+  size: 338, 361
+  orig: 356, 395
+  offset: 2, 6
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_037
+  rotate: false
+  xy: 1, 15
+  size: 324, 317
+  orig: 356, 395
+  offset: 3, 49
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_039
+  rotate: false
+  xy: 327, 1
+  size: 274, 331
+  orig: 356, 395
+  offset: 51, 20
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_041
+  rotate: false
+  xy: 1664, 1446
+  size: 254, 329
+  orig: 356, 395
+  offset: 52, 20
+  index: -1
+wuxinglianzhulizi02/gold dust sparks_043
+  rotate: true
+  xy: 890, 65
+  size: 250, 229
+  orig: 356, 395
+  offset: 53, 94
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_02
+  rotate: true
+  xy: 1766, 1134
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_03
+  rotate: false
+  xy: 1121, 162
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_04
+  rotate: false
+  xy: 1121, 5
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_05
+  rotate: true
+  xy: 1433, 7
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_06
+  rotate: true
+  xy: 1590, 9
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1
+wuxinglianzhutexiao2/fx_dragon_07
+  rotate: true
+  xy: 1747, 9
+  size: 310, 155
+  orig: 310, 155
+  offset: 0, 0
+  index: -1

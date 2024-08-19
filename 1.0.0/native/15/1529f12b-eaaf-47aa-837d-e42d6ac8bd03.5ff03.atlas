@@ -1,0 +1,181 @@
+
+h_pinklady.png
+size: 2030,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 938, 156
+  size: 323, 172
+  orig: 386, 207
+  offset: 33, 18
+  index: -1
+bang_01
+  rotate: true
+  xy: 1686, 134
+  size: 130, 133
+  orig: 133, 135
+  offset: 3, 1
+  index: -1
+bang_02
+  rotate: false
+  xy: 1821, 2
+  size: 140, 139
+  orig: 142, 139
+  offset: 2, 0
+  index: -1
+blink01
+  rotate: true
+  xy: 1821, 143
+  size: 212, 205
+  orig: 301, 357
+  offset: 13, 4
+  index: -1
+blink02
+  rotate: true
+  xy: 938, 5
+  size: 149, 145
+  orig: 211, 250
+  offset: 9, 2
+  index: -1
+blink03
+  rotate: true
+  xy: 1085, 5
+  size: 149, 145
+  orig: 211, 250
+  offset: 9, 2
+  index: -1
+body
+  rotate: true
+  xy: 1112, 199
+  size: 280, 133
+  orig: 280, 158
+  offset: 0, 21
+  index: -1
+deco
+  rotate: true
+  xy: 578, 6
+  size: 26, 50
+  orig: 27, 50
+  offset: 1, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 643, 58
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 643, 95
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 643, 119
+  size: 293, 360
+  orig: 357, 423
+  offset: 31, 34
+  index: -1
+frame
+  rotate: true
+  xy: 2, 14
+  size: 465, 574
+  orig: 465, 574
+  offset: 0, 0
+  index: -1
+frame_f
+  rotate: true
+  xy: 578, 34
+  size: 445, 63
+  orig: 445, 554
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 1232, 42
+  size: 213, 155
+  orig: 445, 554
+  offset: 116, 143
+  index: -1
+fx02
+  rotate: true
+  xy: 1447, 2
+  size: 213, 237
+  orig: 445, 554
+  offset: 116, 143
+  index: -1
+fx03
+  rotate: false
+  xy: 1247, 217
+  size: 213, 262
+  orig: 445, 554
+  offset: 116, 144
+  index: -1
+fx04
+  rotate: false
+  xy: 1462, 260
+  size: 213, 219
+  orig: 445, 554
+  offset: 116, 192
+  index: -1
+fx05
+  rotate: true
+  xy: 1677, 266
+  size: 213, 142
+  orig: 445, 554
+  offset: 116, 269
+  index: -1
+fx06
+  rotate: false
+  xy: 1821, 357
+  size: 207, 122
+  orig: 445, 554
+  offset: 122, 289
+  index: -1
+hair_L_01
+  rotate: false
+  xy: 789, 6
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hair_L_02
+  rotate: true
+  xy: 630, 7
+  size: 25, 93
+  orig: 27, 94
+  offset: 1, 1
+  index: -1
+hair_R_01
+  rotate: false
+  xy: 834, 25
+  size: 37, 92
+  orig: 37, 94
+  offset: 0, 2
+  index: -1
+hair_R_02
+  rotate: false
+  xy: 725, 6
+  size: 62, 111
+  orig: 63, 111
+  offset: 0, 0
+  index: -1
+pupil_L
+  rotate: false
+  xy: 643, 34
+  size: 22, 22
+  orig: 22, 23
+  offset: 0, 1
+  index: -1
+pupil_R
+  rotate: false
+  xy: 691, 95
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1

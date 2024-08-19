@@ -1,0 +1,125 @@
+
+infobar.png
+size: 633,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare
+  rotate: false
+  xy: 1, 4
+  size: 184, 114
+  orig: 184, 114
+  offset: 0, 0
+  index: -1
+fx_infoboard_glow
+  rotate: false
+  xy: 194, 796
+  size: 438, 80
+  orig: 438, 80
+  offset: 0, 0
+  index: -1
+fx_infoboard_glow_01
+  rotate: false
+  xy: 194, 717
+  size: 394, 77
+  orig: 394, 77
+  offset: 0, 0
+  index: -1
+infoboard_a
+  rotate: true
+  xy: 102, 120
+  size: 756, 90
+  orig: 756, 90
+  offset: 0, 0
+  index: -1
+infoboard_b
+  rotate: true
+  xy: 1, 120
+  size: 756, 99
+  orig: 756, 99
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_00
+  rotate: false
+  xy: 194, 649
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_01
+  rotate: false
+  xy: 194, 581
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_02
+  rotate: false
+  xy: 194, 513
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_03
+  rotate: false
+  xy: 194, 445
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_04
+  rotate: false
+  xy: 194, 377
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_05
+  rotate: false
+  xy: 194, 309
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_06
+  rotate: false
+  xy: 194, 241
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_07
+  rotate: false
+  xy: 194, 173
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_08
+  rotate: false
+  xy: 194, 105
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_09
+  rotate: true
+  xy: 552, 359
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_10
+  rotate: true
+  xy: 552, 1
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1
+tishilangguangxiao/fx_infoboard_line_11
+  rotate: false
+  xy: 187, 37
+  size: 356, 66
+  orig: 356, 66
+  offset: 0, 0
+  index: -1

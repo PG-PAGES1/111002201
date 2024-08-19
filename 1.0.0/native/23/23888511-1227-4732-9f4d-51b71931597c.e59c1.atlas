@@ -1,0 +1,76 @@
+
+l_fanpaizi.png
+size: 1444,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 892, 113
+  size: 335, 354
+  orig: 347, 354
+  offset: 5, 0
+  index: -1
+box_c_01
+  rotate: false
+  xy: 1427, 171
+  size: 15, 56
+  orig: 45, 64
+  offset: 13, 4
+  index: -1
+box_c_02
+  rotate: true
+  xy: 578, 23
+  size: 10, 37
+  orig: 13, 37
+  offset: 3, 0
+  index: -1
+box_c_03
+  rotate: false
+  xy: 1415, 142
+  size: 10, 85
+  orig: 10, 85
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 2, 2
+  size: 465, 574
+  orig: 465, 574
+  offset: 0, 0
+  index: -1
+frame_borders
+  rotate: false
+  xy: 578, 79
+  size: 312, 388
+  orig: 312, 388
+  offset: 0, 0
+  index: -1
+fx_box_glow
+  rotate: true
+  xy: 1229, 111
+  size: 116, 184
+  orig: 116, 184
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: true
+  xy: 1229, 229
+  size: 238, 203
+  orig: 238, 203
+  offset: 0, 0
+  index: -1
+paizi_01
+  rotate: true
+  xy: 578, 35
+  size: 42, 158
+  orig: 46, 158
+  offset: 0, 0
+  index: -1
+paizi_02
+  rotate: true
+  xy: 738, 36
+  size: 41, 159
+  orig: 45, 159
+  offset: 0, 0
+  index: -1

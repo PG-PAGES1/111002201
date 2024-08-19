@@ -1,0 +1,223 @@
+
+h_redlady.png
+size: 1381,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blink01
+  rotate: true
+  xy: 2, 2
+  size: 196, 270
+  orig: 464, 488
+  offset: 194, 0
+  index: -1
+blink02
+  rotate: false
+  xy: 274, 8
+  size: 140, 190
+  orig: 325, 342
+  offset: 136, 0
+  index: -1
+blink03
+  rotate: false
+  xy: 416, 8
+  size: 140, 190
+  orig: 325, 342
+  offset: 136, 0
+  index: -1
+body
+  rotate: true
+  xy: 558, 5
+  size: 291, 156
+  orig: 300, 156
+  offset: 5, 0
+  index: -1
+crown_L_01
+  rotate: false
+  xy: 1357, 520
+  size: 15, 63
+  orig: 16, 63
+  offset: 1, 0
+  index: -1
+crown_L_02
+  rotate: false
+  xy: 966, 299
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+crown_R_01
+  rotate: true
+  xy: 716, 2
+  size: 25, 97
+  orig: 27, 97
+  offset: 0, 0
+  index: -1
+crown_R_02
+  rotate: true
+  xy: 992, 11
+  size: 63, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+crown_R_03
+  rotate: true
+  xy: 1268, 16
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+earing_01
+  rotate: true
+  xy: 1045, 318
+  size: 50, 79
+  orig: 50, 81
+  offset: 0, 2
+  index: -1
+earing_02
+  rotate: false
+  xy: 928, 298
+  size: 36, 70
+  orig: 37, 70
+  offset: 1, 0
+  index: -1
+earing_R
+  rotate: true
+  xy: 469, 202
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+eye_white_L
+  rotate: false
+  xy: 836, 8
+  size: 45, 19
+  orig: 49, 22
+  offset: 1, 2
+  index: -1
+eye_white_R
+  rotate: false
+  xy: 883, 8
+  size: 30, 19
+  orig: 33, 23
+  offset: 0, 1
+  index: -1
+fingers
+  rotate: false
+  xy: 1268, 76
+  size: 111, 146
+  orig: 125, 153
+  offset: 3, 7
+  index: -1
+frame
+  rotate: false
+  xy: 2, 200
+  size: 465, 574
+  orig: 465, 574
+  offset: 0, 0
+  index: -1
+frame_f
+  rotate: false
+  xy: 928, 585
+  size: 445, 189
+  orig: 445, 554
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: true
+  xy: 1141, 9
+  size: 213, 125
+  orig: 445, 554
+  offset: 116, 143
+  index: -1
+fx02
+  rotate: true
+  xy: 928, 370
+  size: 213, 212
+  orig: 445, 554
+  offset: 116, 143
+  index: -1
+fx03
+  rotate: false
+  xy: 716, 29
+  size: 213, 267
+  orig: 445, 554
+  offset: 116, 144
+  index: -1
+fx04
+  rotate: false
+  xy: 1142, 403
+  size: 213, 180
+  orig: 445, 554
+  offset: 116, 231
+  index: -1
+fx05
+  rotate: false
+  xy: 1142, 224
+  size: 213, 177
+  orig: 445, 554
+  offset: 116, 234
+  index: -1
+fx06
+  rotate: false
+  xy: 935, 189
+  size: 204, 107
+  orig: 445, 554
+  offset: 125, 304
+  index: -1
+hair
+  rotate: false
+  xy: 931, 57
+  size: 59, 130
+  orig: 59, 130
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 992, 76
+  size: 111, 112
+  orig: 190, 132
+  offset: 16, 10
+  index: -1
+head
+  rotate: false
+  xy: 469, 298
+  size: 457, 476
+  orig: 464, 488
+  offset: 0, 0
+  index: -1
+head_jewelry
+  rotate: false
+  xy: 935, 10
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+index_finger
+  rotate: false
+  xy: 469, 244
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+lips
+  rotate: true
+  xy: 1007, 300
+  size: 68, 36
+  orig: 464, 488
+  offset: 285, 42
+  index: -1
+pupil_L
+  rotate: true
+  xy: 815, 4
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+pupil_R
+  rotate: false
+  xy: 915, 9
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

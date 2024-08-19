@@ -1,0 +1,251 @@
+
+s_scatter.png
+size: 821,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair
+  rotate: true
+  xy: 2, 182
+  size: 175, 172
+  orig: 175, 172
+  offset: 0, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 541, 105
+  size: 88, 46
+  orig: 88, 86
+  offset: 0, 31
+  index: -1
+fx02
+  rotate: true
+  xy: 465, 10
+  size: 88, 54
+  orig: 88, 86
+  offset: 0, 32
+  index: -1
+fx03
+  rotate: true
+  xy: 521, 10
+  size: 88, 47
+  orig: 88, 86
+  offset: 0, 37
+  index: -1
+fx201
+  rotate: false
+  xy: 454, 100
+  size: 76, 30
+  orig: 88, 86
+  offset: 6, 40
+  index: -1
+fx202
+  rotate: true
+  xy: 570, 15
+  size: 88, 46
+  orig: 88, 86
+  offset: 0, 40
+  index: -1
+fx203
+  rotate: true
+  xy: 618, 19
+  size: 84, 44
+  orig: 88, 86
+  offset: 2, 40
+  index: -1
+fx_chair_glow
+  rotate: false
+  xy: 340, 2
+  size: 123, 91
+  orig: 123, 120
+  offset: 0, 29
+  index: -1
+fx_rays
+  rotate: false
+  xy: 2, 359
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+fx_swipe/fx_swipe_000
+  rotate: false
+  xy: 664, 46
+  size: 62, 53
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_001
+  rotate: true
+  xy: 759, 119
+  size: 67, 60
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_002
+  rotate: false
+  xy: 683, 205
+  size: 82, 78
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_003
+  rotate: false
+  xy: 541, 153
+  size: 96, 102
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_004
+  rotate: false
+  xy: 703, 401
+  size: 116, 132
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_005
+  rotate: true
+  xy: 510, 257
+  size: 132, 159
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_006
+  rotate: true
+  xy: 357, 392
+  size: 141, 171
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_007
+  rotate: true
+  xy: 530, 391
+  size: 142, 171
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_008
+  rotate: false
+  xy: 2, 7
+  size: 142, 173
+  orig: 250, 311
+  offset: 54, 73
+  index: -1
+fx_swipe/fx_swipe_009
+  rotate: true
+  xy: 178, 394
+  size: 139, 177
+  orig: 250, 311
+  offset: 57, 73
+  index: -1
+fx_swipe/fx_swipe_010
+  rotate: true
+  xy: 178, 271
+  size: 121, 168
+  orig: 250, 311
+  offset: 75, 82
+  index: -1
+fx_swipe/fx_swipe_011
+  rotate: true
+  xy: 671, 285
+  size: 104, 148
+  orig: 250, 311
+  offset: 92, 102
+  index: -1
+fx_swipe/fx_swipe_012
+  rotate: false
+  xy: 454, 132
+  size: 85, 115
+  orig: 250, 311
+  offset: 111, 135
+  index: -1
+fx_swipe/fx_swipe_013
+  rotate: true
+  xy: 683, 146
+  size: 57, 74
+  orig: 250, 311
+  offset: 139, 170
+  index: -1
+fx_swipe/fx_swipe_014
+  rotate: false
+  xy: 774, 77
+  size: 37, 40
+  orig: 250, 311
+  offset: 158, 201
+  index: -1
+pf_base
+  rotate: false
+  xy: 348, 249
+  size: 160, 141
+  orig: 188, 234
+  offset: 14, 58
+  index: -1
+pf_bot
+  rotate: false
+  xy: 146, 31
+  size: 164, 58
+  orig: 188, 234
+  offset: 12, 11
+  index: -1
+pf_header
+  rotate: true
+  xy: 767, 188
+  size: 95, 50
+  orig: 188, 234
+  offset: 49, 182
+  index: -1
+pf_top
+  rotate: false
+  xy: 176, 173
+  size: 161, 96
+  orig: 188, 234
+  offset: 14, 124
+  index: -1
+pinfengx
+  rotate: false
+  xy: 340, 95
+  size: 112, 152
+  orig: 132, 164
+  offset: 10, 6
+  index: -1
+scatfx01
+  rotate: true
+  xy: 631, 105
+  size: 39, 44
+  orig: 180, 60
+  offset: 51, 8
+  index: -1
+scatfx02
+  rotate: true
+  xy: 728, 38
+  size: 61, 44
+  orig: 180, 60
+  offset: 52, 8
+  index: -1
+scatfx03
+  rotate: false
+  xy: 677, 101
+  size: 67, 43
+  orig: 180, 60
+  offset: 61, 9
+  index: -1
+scatfx04
+  rotate: true
+  xy: 664, 10
+  size: 34, 41
+  orig: 180, 60
+  offset: 95, 10
+  index: -1
+scatter
+  rotate: false
+  xy: 146, 91
+  size: 192, 80
+  orig: 257, 86
+  offset: 40, 0
+  index: -1
+scatter_zoomblur
+  rotate: true
+  xy: 639, 158
+  size: 97, 42
+  orig: 129, 58
+  offset: 20, 6
+  index: -1

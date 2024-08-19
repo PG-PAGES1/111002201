@@ -1,0 +1,174 @@
+
+h_greenlady.png
+size: 1980,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blink01
+  rotate: false
+  xy: 1050, 238
+  size: 209, 288
+  orig: 490, 501
+  offset: 134, 0
+  index: -1
+blink02
+  rotate: false
+  xy: 1791, 187
+  size: 147, 202
+  orig: 343, 351
+  offset: 93, 0
+  index: -1
+blink03
+  rotate: true
+  xy: 1725, 38
+  size: 147, 202
+  orig: 343, 351
+  offset: 93, 0
+  index: -1
+body
+  rotate: true
+  xy: 1486, 269
+  size: 257, 94
+  orig: 257, 94
+  offset: 0, 0
+  index: -1
+earring_L
+  rotate: true
+  xy: 1684, 273
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: -1
+earring_R
+  rotate: true
+  xy: 1582, 273
+  size: 28, 100
+  orig: 30, 100
+  offset: 2, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 2, 2
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 1461, 23
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 25
+  size: 470, 501
+  orig: 490, 501
+  offset: 12, 0
+  index: -1
+face_cover
+  rotate: true
+  xy: 1369, 22
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 474, 61
+  size: 465, 574
+  orig: 465, 574
+  offset: 0, 0
+  index: -1
+frame_f
+  rotate: false
+  xy: 474, 9
+  size: 443, 50
+  orig: 445, 554
+  offset: 1, 0
+  index: -1
+fx01
+  rotate: false
+  xy: 1050, 65
+  size: 223, 171
+  orig: 445, 554
+  offset: 111, 138
+  index: -1
+fx02
+  rotate: false
+  xy: 1500, 17
+  size: 223, 250
+  orig: 445, 554
+  offset: 111, 138
+  index: -1
+fx03
+  rotate: false
+  xy: 1261, 248
+  size: 223, 278
+  orig: 445, 554
+  offset: 111, 138
+  index: -1
+fx04
+  rotate: true
+  xy: 1582, 303
+  size: 223, 207
+  orig: 445, 554
+  offset: 111, 209
+  index: -1
+fx05
+  rotate: false
+  xy: 1275, 65
+  size: 223, 181
+  orig: 445, 554
+  offset: 111, 235
+  index: -1
+fx06
+  rotate: false
+  xy: 1791, 391
+  size: 177, 135
+  orig: 445, 554
+  offset: 157, 281
+  index: -1
+hair_acc_01_R
+  rotate: true
+  xy: 1229, 19
+  size: 44, 138
+  orig: 44, 138
+  offset: 0, 0
+  index: -1
+hair_acc_02_R
+  rotate: false
+  xy: 1940, 179
+  size: 34, 123
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+hair_acc_03_R
+  rotate: false
+  xy: 1940, 304
+  size: 38, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+hair_acc_L
+  rotate: true
+  xy: 919, 11
+  size: 48, 308
+  orig: 50, 308
+  offset: 0, 0
+  index: -1
+pupil_L
+  rotate: false
+  xy: 66, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+pupil_R
+  rotate: false
+  xy: 42, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

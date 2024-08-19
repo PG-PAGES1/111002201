@@ -1,0 +1,97 @@
+
+l_box.png
+size: 1387,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_back
+  rotate: false
+  xy: 997, 314
+  size: 286, 153
+  orig: 286, 153
+  offset: 0, 0
+  index: -1
+box_front
+  rotate: false
+  xy: 578, 158
+  size: 417, 309
+  orig: 417, 309
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 997, 211
+  size: 264, 101
+  orig: 264, 102
+  offset: 0, 1
+  index: -1
+dessert
+  rotate: false
+  xy: 997, 61
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+dessert_01
+  rotate: false
+  xy: 1285, 81
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+dessert_02
+  rotate: false
+  xy: 1285, 146
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+dessert_03
+  rotate: false
+  xy: 1199, 14
+  size: 72, 66
+  orig: 75, 66
+  offset: 3, 0
+  index: -1
+frame
+  rotate: true
+  xy: 2, 2
+  size: 465, 574
+  orig: 465, 574
+  offset: 0, 0
+  index: -1
+frame_f
+  rotate: false
+  xy: 578, 26
+  size: 398, 130
+  orig: 445, 554
+  offset: 47, 0
+  index: -1
+handle_b
+  rotate: false
+  xy: 1199, 82
+  size: 84, 127
+  orig: 84, 127
+  offset: 0, 0
+  index: -1
+handle_f
+  rotate: false
+  xy: 1285, 214
+  size: 100, 253
+  orig: 100, 253
+  offset: 0, 0
+  index: -1
+petal_01
+  rotate: true
+  xy: 1332, 47
+  size: 32, 29
+  orig: 34, 29
+  offset: 2, 0
+  index: -1
+petals
+  rotate: false
+  xy: 1273, 28
+  size: 57, 51
+  orig: 59, 51
+  offset: 1, 0
+  index: -1
